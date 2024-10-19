@@ -1,0 +1,23 @@
+
+Resturant Name,Mann Food Court,"",Location,Whitefield
+Service Period From,12-09-2022,"",City,Bengaluru
+Service Period To,18-09-2022,"",State,N/A
+Entity Name,""
+
+Summary of Invoice
+"",Delivery Orders,Take-Away Orders,Dine In Orders,Cancelled Orders,Total Orders
+Number Of Orders,21,6,0,0,27
+Item Sub-Total,8880.0,2309.0,0.0,0.0,11189.0
+Packaging Or Service Charges,550.0,130.0,0.0,0.0,680.0
+Delivery Charges,525.0,0.0,0.0,0.0,525.0
+Discounts,2067.6,702.8,0.0,0.0,2770.4
+Net Bill Value,7337.4,1606.2,0.0,0.0,8943.6
+GST Charged to Customer,394.37,86.81,0.0,0.0,481.18
+Total Customer Payable,8281.77,1823.01,0.0,0.0,10104.78
+Hashtag Loyalty Service Fees,204.37,48.19,0.0,0.0,252.56
+Razorpay Transaction Fee,172.42,36.46,0.0,0.0,208.87
+Delivery Fee,542.0,0.0,0.0,0.0,542.0
+Total GST over fees,165.38,15.24,0.0,0.0,180.62
+Total Service Fees,1084.17,99.88,0.0,0.0,1184.05
+"",,,,,
+Net Payable,7197.6,1723.13,0.0,0.0,8920.73

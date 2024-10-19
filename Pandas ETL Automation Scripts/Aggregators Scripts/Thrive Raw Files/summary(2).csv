@@ -1,0 +1,23 @@
+
+Resturant Name,Roj Ka Khana,"",Location,"Pattandur Agrahara, Whitefield"
+Service Period From,11-07-2022,"",City,Bengaluru
+Service Period To,17-07-2022,"",State,N/A
+Entity Name,""
+
+Summary of Invoice
+"",Delivery Orders,Take-Away Orders,Dine In Orders,Cancelled Orders,Total Orders
+Number Of Orders,9,1,0,0,10
+Item Sub-Total,1910.0,198.0,0.0,0.0,2108.0
+Packaging Or Service Charges,190.0,20.0,0.0,0.0,210.0
+Delivery Charges,270.0,0.0,0.0,0.0,270.0
+Discounts,863.4,118.8,0.0,0.0,982.2
+Net Bill Value,1316.6,79.2,0.0,0.0,1395.8
+GST Charged to Customer,75.33,4.96,0.0,0.0,80.29
+Total Customer Payable,1581.93,104.16,0.0,0.0,1686.09
+Hashtag Loyalty Service Fees,31.4,2.38,0.0,0.0,33.78
+Razorpay Transaction Fee,33.25,2.08,0.0,0.0,35.33
+Delivery Fee,287.0,0.0,0.0,0.0,287.0
+Total GST over fees,63.3,0.8,0.0,0.0,64.1
+Total Service Fees,414.94,5.27,0.0,0.0,420.21
+"",,,,,
+Net Payable,1166.99,98.89,0.0,0.0,1265.88
